@@ -149,3 +149,4 @@ public class Venta implements Externalizable {
     setTotal(in.readDouble());
   }
 }
+//
