@@ -149,3 +149,4 @@ public class Producto implements Externalizable {
     setTipoUnidad((String) in.readObject());
   }
 }
+//
